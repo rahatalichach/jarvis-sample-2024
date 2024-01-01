@@ -1,0 +1,16 @@
+Voice-Controlled AI Assistant
+
+This Python script implements a simple voice-controlled AI assistant using the pyttsx3 text-to-speech library and the speech_recognition library for speech recognition.
+  The assistant can perform tasks such as providing the current time, searching Wikipedia, opening Google, and launching Visual Studio Code. Additionally, 
+it can dynamically play songs from YouTube based on user input.
+
+Features:
+
+Text-to-speech and speech recognition functionalities.
+Dynamic song playback using pywhatkit.playonyt.
+Basic commands for searching Wikipedia, opening Google, checking the time, and opening VS Code.
+Usage:
+
+Install required libraries: pip install pyttsx3 speech_recognition wikipedia pywhatkit.
+Run the script: python main.py.
+Interact with the assistant using voice commands.
